@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou Gabriel Marques
+## 👋🏾 Olá! Eu sou Gabriel Marques 👨🏾‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unijorge  
 💻 Aprendendo programação em C, HTML e desenvolvimento web  
