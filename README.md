@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0a183c,1a3278,3050c1&height=280&section=header&text=Bem-vindo!&fontSize=80&fontColor=ffffff&animation=fadeIn"/>
+  [<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0a183c,1a3278,3050c1&height=280&section=header&text=Bem-vindo!&fontSize=80&fontColor=ffffff&animation=fadeIn"/>](https://capsule-render.vercel.app/api?type=waving&height=120&color=185a9d&descAlign=36&descAlignY=2)
 </p>
 
 ## 👋🏾 Olá! Eu sou Gabriel Marques 👨🏾‍💻
