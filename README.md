@@ -1,5 +1,5 @@
 <p align="center">
-  https://capsule-render.vercel.app/api?type=waving&height=120&color=185a9d&descAlign=36&descAlignY=2
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=185a9d&descAlign=36&descAlignY=2">
 </p>
 
 ## 👋🏾 Olá! Eu sou Gabriel Marques 👨🏾‍💻
