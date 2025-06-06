@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:0a183c,1a3278,3050c1&height=280&section=header&text=Bem-vindo!&fontSize=80&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 ## 👋🏾 Olá! Eu sou Gabriel Marques 👨🏾‍💻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na Unijorge  
